@@ -1,5 +1,6 @@
 # netlfix
 netflix  film and tv_show eda
+
 In this project, I uploaded a dataframe with netflix movie statistics
 
 I checked for duplicates and analyzed the data, also conducted a study on nan values. 
